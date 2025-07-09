@@ -1,0 +1,13 @@
+Count: 12
+/Script/Engine.Default__CapsuleComponent
+/Script/Engine.Default__Character.CollisionCylinder
+/Script/Engine.Default__NavigationObjectBase.CollisionCapsule
+/Script/Engine.Default__PlayerStart.CollisionCapsule
+/Script/Engine.Default__PlayerStartPIE.CollisionCapsule
+/Script/Engine.Default__TriggerCapsule.CollisionComp
+/Script/Paper2D.Default__PaperCharacter.CollisionCylinder
+/Script/ArchVisCharacter.Default__ArchVisCharacter.CollisionCylinder
+/Script/Foliage.Default__InteractiveFoliageActor.CollisionCylinder
+/Script/NavigationSystem.Default__NavigationTestingActor.CollisionCylinder
+/Script/AIModule.Default__EQSTestingPawn.CollisionCylinder
+/Engine/Maps/Templates/Template_Default.Template_Default.PersistentLevel.PlayerStart.CollisionCapsule

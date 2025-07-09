@@ -1,0 +1,6 @@
+Count: 5
+/Script/NavigationSystem.Default__NavCollision
+/Engine/BasicShapes/Cylinder.Cylinder.NavCollision_2
+/Engine/EngineMeshes/Cylinder.Cylinder.NavCollision_6
+/Engine/EngineSky/SM_SkySphere.SM_SkySphere.NavCollision_9
+/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor.NavCollision_10

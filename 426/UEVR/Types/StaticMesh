@@ -1,0 +1,7 @@
+Count: 6
+/Script/Engine.Default__StaticMesh
+/Engine/EngineMeshes/Sphere.Sphere
+/Engine/BasicShapes/Cylinder.Cylinder
+/Engine/EngineMeshes/Cylinder.Cylinder
+/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+/Engine/EngineSky/SM_SkySphere.SM_SkySphere

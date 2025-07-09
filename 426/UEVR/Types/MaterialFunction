@@ -1,0 +1,9 @@
+Count: 8
+/Script/Engine.Default__MaterialFunction
+/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade
+/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components
+/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.MakeFloat2
+/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec
+/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3
+/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.BreakOutFloat4Components
+/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.CameraDirectionVector

@@ -1,0 +1,23 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct ForceFeedbackParameters {
+    private: char pad_0[0xc]; public:
+    void* get_Tag();
+    bool get_bLooping();
+    void set_bLooping(bool value);
+    bool get_bIgnoreTimeDilation();
+    void set_bIgnoreTimeDilation(bool value);
+    bool get_bPlayWhilePaused();
+    void set_bPlayWhilePaused(bool value);
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0xc
+#pragma pack(pop)
+}

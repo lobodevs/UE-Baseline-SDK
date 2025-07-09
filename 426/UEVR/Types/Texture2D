@@ -1,0 +1,26 @@
+Count: 25
+/Script/Engine.Default__Texture2D
+/Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture
+/Engine/EngineResources/GradientTexture0.GradientTexture0
+/Engine/EngineResources/Black.Black
+/Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N
+/Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M
+/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse
+/Engine/EngineResources/DefaultTexture.DefaultTexture
+/Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField.RobotoDistanceField_PageA
+/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture.CloudWeatherTexture
+/Engine/EngineSky/VolumetricClouds/CloudGradientTexture.CloudGradientTexture
+/Paper2D/PlaceholderTextures/DummySpriteTexture.DummySpriteTexture
+/Engine/EngineMaterials/DefaultWhiteGrid_Low.DefaultWhiteGrid_Low
+/Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings
+/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq
+/Engine/EngineMaterials/DefaultBokeh.DefaultBokeh
+/Engine/EngineMaterials/DefaultBloomKernel.DefaultBloomKernel
+/Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF
+/Engine/EngineMaterials/MiniFont.MiniFont
+/Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture
+/Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid
+/Engine/EngineMaterials/BlueNoise.BlueNoise
+/Engine/EngineSky/T_Sky_Stars.T_Sky_Stars
+/Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M
+/Engine/EngineSky/T_Sky_Blue.T_Sky_Blue

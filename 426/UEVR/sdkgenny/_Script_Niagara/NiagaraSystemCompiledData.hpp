@@ -1,0 +1,28 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Niagara {
+#pragma pack(push, 1)
+struct NiagaraSystemCompiledData {
+    private: char pad_0[0x218]; public:
+    void* get_InstanceParamStore();
+    void* get_DataSetCompiledData();
+    void* get_SpawnInstanceParamsDataSetCompiledData();
+    void* get_UpdateInstanceParamsDataSetCompiledData();
+    void* get_SpawnInstanceGlobalBinding();
+    void* get_SpawnInstanceSystemBinding();
+    void* get_SpawnInstanceOwnerBinding();
+    void* get_SpawnInstanceEmitterBindings();
+    void* get_UpdateInstanceGlobalBinding();
+    void* get_UpdateInstanceSystemBinding();
+    void* get_UpdateInstanceOwnerBinding();
+    void* get_UpdateInstanceEmitterBindings();
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0x218
+#pragma pack(pop)
+}

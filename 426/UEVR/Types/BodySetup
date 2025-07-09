@@ -1,0 +1,13 @@
+Count: 12
+/Script/Engine.Default__BodySetup
+/Engine/EngineMeshes/Sphere.Sphere.RB_BodySetup_0
+/Paper2D/DummySprite.DummySprite.BodySetup_0
+/Script/MagicLeapARPin.Default__MagicLeapARPinComponent.SearchVolume.BodySetup_2147482642
+/Engine/BasicShapes/Cylinder.Cylinder.BodySetup_0
+/Script/MagicLeap.Default__MagicLeapMeshTrackerComponent.BoundingVolume.BodySetup_2147482641
+/Script/MagicLeapPlanes.Default__MagicLeapPlanesComponent.SearchVolume.BodySetup_2147482640
+/Engine/EngineMeshes/Cylinder.Cylinder.BodySetup_127
+/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor.BodySetup_8
+/Engine/EngineSky/SM_SkySphere.SM_SkySphere.RB_BodySetup_7
+/Script/Engine.Default__SpectatorPawn.CollisionComponent0.BodySetup_2147482548
+/Script/Engine.Default__DefaultPawn.CollisionComponent0.BodySetup_2147482545
